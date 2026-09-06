@@ -4,7 +4,8 @@ EN:
 
 The program integrates a wideband spectrum scanner, signal analyzer, multi-mode demodulator, and an intelligent signal detection system powered by machine learning.
 
-![Screenshot](screen.jpg)
+![Screenshot](Specral_v2.33.jpg)
+![Screenshot](Specral_v2.33_.jpg)
 
 ### Wideband Spectrum Scanning
 - Simultaneous scanning of up to 5 frequency bands
@@ -104,14 +105,22 @@ The program integrates a wideband spectrum scanner, signal analyzer, multi-mode 
 - Monitoring wireless medical sensor operations
 - Ensuring electromagnetic purity in zones with sensitive equipment.
 
+###  v2.33  Update Description.
+The 3D spectrum has been improved, as well as full-screen expansion with CTRL+SHIFT+F and exit with ESCAPE.
+The signal recognition algorithm and database entry have been improved.
+Signal search with differential spectrum subtraction has been added. (ignor.all - mode).
+
+The public version has limited functionality with IQ. All other options are fully available.
 
 
-RUS:
+
+###### RUS:
 
 Программа объединяет в себе широкополосный сканер спектра, анализатор сигналов, 
 многорежимный демодулятор и систему интеллектуального обнаружения сигналов с машинным обучением.
 
-![Screenshot](screen.jpg)
+![Screenshot](Specral_v2.33.jpg)
+![Screenshot](Specral_v2.33_.jpg)
 
 
 ###  Широкополосное сканирование спектра
@@ -217,6 +226,15 @@ RUS:
 В паблик версии ограничена работа с базой и IQ файлами. 
 
 Видео на YouTube:  https://www.youtube.com/watch?v=ZxTEvO0BNdY
+
+
+
+###  Описание обновления. 
+Улучшен 3D пектр, так же раскрытие на весь экран CTRL+SHIFT +F , выход ESCAPE  .
+Улучшен алгоритм распознавания сигналов с занесением в базу. 
+Добавлен поиск сигналов с дифференциальным вычитанием спектра. (ignor.all - mode).
+
+В публичной версии 2.33 ограничена работа с IQ. Все остальные опции полностью доступны.
 
 
 
